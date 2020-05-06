@@ -1,0 +1,55 @@
+body {
+  background-color: #ff9770;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Crimson Text', serif;
+   }
+
+#saoPaulo {
+  font-size: 1.25em;
+  background-color: #ff70a6;
+}
+
+h3 {
+  text-align: center;
+  background-color: #E9FF70;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 
+0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.08);
+  
+}
+
+.elementoDaLista {
+  font-weight: bold;
+  text-align: center;
+}
+
+#euNoSol {
+  /* text-align: center; */
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.blocoSobremin {
+  background-color: #ff70a6;
+}
+
+.blocoInfo {
+  background-color: #70d6ff;
+}
+
+.blocoBlogs {
+  background-color: #ffd670;
+}
+
+#wrap {
+  width: 90%;
+  margin: 0 auto;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
