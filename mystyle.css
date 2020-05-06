@@ -20,10 +20,10 @@ h3 {
   
 }
 
-.elementoDaLista {
+/* .elementoDaLista {
   font-weight: bold;
   text-align: center;
-}
+} */
 
 #euNoSol {
   /* text-align: center; */
@@ -38,10 +38,20 @@ h3 {
 
 .blocoInfo {
   background-color: #70d6ff;
+  /* position: absolute; */
+  /* left: 50%;
+  width: 25%;
+  border: 1px solid white;
+  padding: 10px; */
 }
 
 .blocoBlogs {
   background-color: #ffd670;
+  /* position: absolute; */
+  /* right: 50%
+  width:  25%;
+  border: 1px solid white;
+  padding: 10px; */
 }
 
 #wrap {
@@ -53,3 +63,106 @@ p {
     font-family: 'Work Sans', sans-serif;
     text-align: center;
 }
+
+#rodape {
+    background-color: #ffd500;
+}
+
+.backamarelo{
+    background-color: #ffd500 ;
+}
+/* Posição do título */
+
+.right {
+    position: absolute;
+    left: 25%;
+    width: 300px;
+    border: 3px solid white;
+    padding: 10px;
+    color: whitesmoke;
+  }
+
+  #miniPauloDandrea{
+      color: white;
+  }
+
+
+
+
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: #333; */
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1em 2em;
+    text-decoration: none;
+  }
+
+  li {
+    border-right: 2px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+
+/* ============ */
+    /* li{
+        list-style: none;
+    
+        list-style-position: inside; 
+        
+    }
+
+    li:before{
+        content: '';
+
+        display: inline-block;
+        border-radius: 50%;
+        background-size: contain;
+        height: 1em;
+        width: 1em;
+        background-image: url(images/euNoSol.jpg);
+
+    }
+
+    ul {
+        display: table;
+        width: 100%;
+        list-style: none;
+        }
+        li {
+        display: table-cell;
+        text-align: center;
+        }
+    li a {
+        display: block;
+        } */
+
+    /* ===================== */
+/* 
+    ul:first-child {
+        text-align: left;
+    }
+    li:last-child {
+    text-align: right;
+} */
+
+/* nav display: table, the ul display:table-row and the li display:table-cell */
+
