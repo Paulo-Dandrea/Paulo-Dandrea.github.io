@@ -71,11 +71,12 @@ p {
 .backamarelo{
     background-color: #ffd500 ;
 }
+
 /* Posição do título */
 
 .right {
     position: absolute;
-    left: 25%;
+    left: 22%;
     width: 300px;
     border: 3px solid white;
     padding: 10px;
