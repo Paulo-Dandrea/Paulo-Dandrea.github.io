@@ -26,6 +26,7 @@ h3 {
 div.ceu {
   background-image: url(https://gcloudlabs.com/wp-content/uploads/2015/02/More-Sky-Wallpapers-8.jpg);
   padding: 2%;
+ ;
   box-shadow: 2px 2px 0px #70d6ff;
   background-position: 0px;
   background-repeat: space;
@@ -85,7 +86,7 @@ p {
 
 .backamarelo {
   background-color: #ffd500;
-  box-shadow: 2px 2px 0px #70d6ff;
+  box-shadow: 3px 4px 0px #70d6ff;
 }
 
 /* Posição do título */
@@ -102,7 +103,7 @@ p {
   margin: 10px;
   color: whitesmoke;
   font-family: "Crimson Text", serif;
-  box-shadow: 2px 2px 0px #70d6ff;
+  box-shadow: 4px 4px 0px #70d6ff;
 }
 
 
