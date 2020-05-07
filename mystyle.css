@@ -29,6 +29,7 @@ div.ceu {
   box-shadow: 2px 2px 0px #70d6ff;
   background-position: 0px;
   background-repeat: space;
+  position: relative;
 }
 
 /* FOTO CABECA */
@@ -67,6 +68,7 @@ div.ceu {
 #wrap {
   width: 90%;
   margin: 0 auto;
+  position: relative;
 }
 
 p {
@@ -77,6 +79,8 @@ p {
 #rodape {
   background-color: #ffd500;
   clear: both;
+  font-weight: bold;
+ 
 }
 
 .backamarelo {
@@ -100,6 +104,7 @@ p {
   font-family: "Crimson Text", serif;
   box-shadow: 2px 2px 0px #70d6ff;
 }
+
 
 
 /* Estilo das listas */
