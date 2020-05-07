@@ -10,6 +10,7 @@ h4,
 h5,
 h6 {
   font-family: "Crimson Text", serif;
+  padding: 1%  ;
 }
 
 #saoPaulo {
@@ -31,6 +32,7 @@ div.ceu {
   background-position: 0px;
   background-repeat: space;
   position: relative;
+  height: 300px;
 }
 
 /* FOTO CABECA */
@@ -40,6 +42,10 @@ div.ceu {
   border-radius: 50%;
   display: block;
   margin: 0 auto;
+  width: 200px;
+  position: relative;
+  
+
 }
 
 /* DIV SOBRE MIM */
@@ -87,6 +93,7 @@ p {
 .backamarelo {
   background-color: #ffd500;
   box-shadow: 3px 4px 0px #70d6ff;
+  
 }
 
 /* Posição do título */
@@ -133,9 +140,9 @@ li {
   border-right: 2px solid #bbb;
 }
 
-li:last-child {
-  border-right: none;
-}
+/* li:last-child {
+  /* border-right: none; */
+  
 li a:hover:not(.active) {
   background-color: #111;
 }
